@@ -1,8 +1,8 @@
 // Product gallery images
 const productImages = [
-    "assets/images/classic.png",
-    "assets/images/lily.jpg", 
-    "assets/images/Rose.jpg"
+    "./assets/images/classic.png",
+    "./assets/images/lily.jpg", 
+    "./assets/images/Rose.jpg"
 ];
 
 let currentProductIndex = 0;
