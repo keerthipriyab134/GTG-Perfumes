@@ -123,7 +123,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: url('../assets/images/hero-perfume.png') center no-repeat;
+    background: url('./assets/images/hero-perfume.png') center no-repeat;
     min-height: 100vh;
     padding: 120px 0 60px;
     position: relative;
