@@ -24,38 +24,6 @@ Professional comparison table
 
 Mobile-optimized interface
 
-/project-folder
-
-├── index.html              # Main HTML structure
-
-├── css/
-
-│   └── styles.css          # Complete responsive CSS
-
-├── js/
-
-│   └── script.js           # Interactive JavaScript functionality
-
-├── assets/                 # ALL IMAGES GO HERE (no subfolder)
-
-│   ├── hero-grass-perfume.jpg      # Hero background
-
-│   ├── classic-perfume.png         # Classic fragrance
-
-│   ├── lily-perfume.png            # Lily fragrance
-
-│   ├── rose-perfume.png            # Rose fragrance
-
-│   ├── collection.jpg              # Collection section
-
-│   ├── gtg-logo.png                # GTG brand logo
-
-│   ├── brand-x-logo.png            # Competitor X logo
-
-│   ├── brand-y-logo.png            # Competitor Y logo
-
-│   └── brand-z-logo.png            # Competitor Z logo
-
-└── README.md              
+       
 Required Images List
 All images should be placed directly in the assets/ folder
