@@ -26,4 +26,5 @@ Mobile-optimized interface
 
        
 🖼️ Required Images List
+
 All images should be placed directly in the assets/ folder
