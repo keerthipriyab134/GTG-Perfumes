@@ -30,12 +30,10 @@ Mobile-optimized interface
 
 All images should be placed directly in the assets/ folder
 
-<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 03 15 AM" src="https://github.com/user-attachments/assets/3d26f132-4867-48c0-ad5d-9769d434059a" />
+<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 07 10 AM" src="https://github.com/user-attachments/assets/0880f967-ff78-484e-9457-0bf65385e97c" />
+<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 07 26 AM" src="https://github.com/user-attachments/assets/12cac7c7-e281-4c09-b3bc-b2c700b8afef" />
 
-<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 03 42 AM" src="https://github.com/user-attachments/assets/0db5de2d-1320-40f0-9553-89876f5ff1d5" />
-
-<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 05 10 AM" src="https://github.com/user-attachments/assets/f79478cf-0f4b-4907-be81-e5f758d44164" />
-
-<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 05 27 AM" src="https://github.com/user-attachments/assets/15ae79f2-d702-479e-9b16-76315f94ba7d" />
-
+<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 07 38 AM" src="https://github.com/user-attachments/assets/6684f2dd-115c-4db6-963a-e60a29c33f2d"
+<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 07 50 AM" src="https://github.com/user-attachments/assets/9d6464cf-2d69-4807-a949-f328c8931ac4" />
+ />
 
